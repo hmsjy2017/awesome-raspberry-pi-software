@@ -9,6 +9,8 @@ src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e15
 - 社交
 - 阅读
 - 办公
+- 图形
+- 教育
 - 浏览器
 - 多媒体
 - 文件传输
