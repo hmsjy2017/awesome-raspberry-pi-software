@@ -27,4 +27,4 @@ src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e15
 - [Chromium]
 - [Firefox]
 - [Brave]
-- [Tor Browser]
+- [Tor Browser](https://sourceforge.net/projects/tor-browser-ports/files/)
