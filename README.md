@@ -19,6 +19,12 @@ src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e15
 - 开发者工具
 
 ## 社交
-- [QQ](https://im.qq.com/linuxqq/index.html) - 腾讯公司开发的多平台即时通信软件（仅支持 arm64）
+- [QQ](https://im.qq.com/linuxqq/index.html) - 多平台即时通信软件（仅支持 arm64）
+- [WeChat](https://gitee.com/openfans-community/debian-pi-aarch64-apps/tree/master/apps/wechat) - 一款跨平台的通讯工具（仅支持 arm64)
 - [Telegram Desktop](https://snapcraft.io/telegram-desktop) - 跨平台的加密聊天软件
-- 
+
+## 浏览器
+- [Chromium]
+- [Firefox]
+- [Brave]
+- [Tor Browser]
