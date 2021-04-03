@@ -17,3 +17,8 @@ src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e15
 - 下载工具
 - 科学上网
 - 开发者工具
+
+## 社交
+- [QQ](https://im.qq.com/linuxqq/index.html) - 腾讯公司开发的多平台即时通信软件（仅支持 arm64）
+- [Telegram Desktop](https://snapcraft.io/telegram-desktop) - 跨平台的加密聊天软件
+- 
